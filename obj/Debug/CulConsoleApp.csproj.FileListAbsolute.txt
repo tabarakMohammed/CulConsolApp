@@ -1,0 +1,7 @@
+c:\users\bo\source\repos\CulConsoleApp\CulConsoleApp\bin\Debug\CulConsoleApp.exe.config
+c:\users\bo\source\repos\CulConsoleApp\CulConsoleApp\bin\Debug\CulConsoleApp.exe
+c:\users\bo\source\repos\CulConsoleApp\CulConsoleApp\bin\Debug\CulConsoleApp.pdb
+c:\users\bo\source\repos\CulConsoleApp\CulConsoleApp\obj\Debug\CulConsoleApp.csprojAssemblyReference.cache
+c:\users\bo\source\repos\CulConsoleApp\CulConsoleApp\obj\Debug\CulConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\bo\source\repos\CulConsoleApp\CulConsoleApp\obj\Debug\CulConsoleApp.exe
+c:\users\bo\source\repos\CulConsoleApp\CulConsoleApp\obj\Debug\CulConsoleApp.pdb
